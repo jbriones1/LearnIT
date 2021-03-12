@@ -17,6 +17,7 @@ function App() {
         >
           Tony to the moon
         </a>
+        <p>good bye yall</p>
       </header>
     </div>
   );
