@@ -9,6 +9,7 @@ import {
   Grid,
   theme,
 } from '@chakra-ui/react';
+import ApexChart from './components/ApexChart'
 
 function App() {
   return (
@@ -28,6 +29,9 @@ function App() {
             >
               Learn Chakra
             </Link>
+            <ApexChart
+              typeGraph="bar"
+            />
           </VStack>
         </Grid>
       </Box>
