@@ -30,7 +30,7 @@ function App() {
               Learn Chakra
             </Link>
             <ApexChart
-              typeGraph="bar"
+              typeChart="bar"
             />
           </VStack>
         </Grid>

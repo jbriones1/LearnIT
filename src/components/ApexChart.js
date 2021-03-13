@@ -16,7 +16,7 @@ const ApexChart = props => {
       },
       plotOptions: {
         bar: {
-          horizontal: true,
+          horizontal: false,
         }
       },
       dataLabels: {
