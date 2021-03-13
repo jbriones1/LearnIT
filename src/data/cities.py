@@ -17,12 +17,6 @@ if __name__ == "__main__":
 
     databases = {"mysql", "postgresql", "mongodb"}
 
-    #  frequencies = {state: {"languages": {language: 0 for language in languages},
-                   #  "front end": {framework: 0 for framework in front_end},
-                   #  "back end": {framework: 0 for framework in back_end},
-                   #  "databases": {database: 0 for database in databases}}
-                   #  for state in states}
-
     frequencies = {}
 
     with open("./data.json") as f:
