@@ -12,6 +12,7 @@ import {
 } from '@chakra-ui/react';
 import { ArrowForwardIcon } from '@chakra-ui/icons';
 import { useState } from 'react';
+import FilterButtons from './../FilterButtons';
 
 const FrontPage = () => {
   // react hook
@@ -26,11 +27,12 @@ const FrontPage = () => {
         <Box>
           <Image
             m='auto'
+            mb='5'
             borderRadius='full'
             src='https://dummyimage.com/200x200/#b4b9c/fff'
             alt=''
-          />
-          <Heading fontSize='4rem' m='auto' mb='5' color='white'>
+          ></Image>
+          <Heading fontSize='4rem' m='auto' textAlign='center' color='white'>
             Popular <chakra.span color='teal.300'>Languages</chakra.span>
           </Heading>
           <Text color='white' align='center' fontSize='lg' mb='10'>
@@ -50,6 +52,7 @@ const FrontPage = () => {
               Get Started <ArrowForwardIcon />
             </Button>
           </Stack>
+          <FilterButtons colNum={5} />
         </Box>
       </Center>
     </Box>
