@@ -22,6 +22,7 @@ import FilterButtons from '../FilterButtons';
 import Logo from './../../images/angle.png';
 import { ArrowForwardIcon } from '@chakra-ui/icons';
 import ApexChart from '../ApexChart';
+import useWindowSize from '../../hooks/useWindowSize';
 
 const FrontPage = () => {
   // react hook
@@ -47,6 +48,8 @@ const FrontPage = () => {
     'swift',
     'c',
   ]);
+
+  const { width, height } = useWindowSize();
 
   // to handle location change
   const handleChange = (e) => setLocation(e.target.value.trim().toLowerCase());
@@ -131,7 +134,12 @@ const FrontPage = () => {
         scrollBehavior='inside'
       >
         <ModalOverlay />
-        <ModalContent py='10' width='600px' m='auto' backgroundColor='#262d47'>
+        <ModalContent
+          py='10'
+          width={width * 0.85}
+          m='auto'
+          backgroundColor='#262d47'
+        >
           <ModalCloseButton color='white' />
           <ModalBody>
             <Center>

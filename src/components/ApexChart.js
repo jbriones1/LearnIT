@@ -1,6 +1,7 @@
 import React from 'react';
 import Chart from 'react-apexcharts';
 import { Text } from '@chakra-ui/react';
+import useWindowSize from '../hooks/useWindowSize';
 
 const statesAbbrevation = {};
 
@@ -68,6 +69,7 @@ const isCity = (location) => cities[location] != null;
 const ApexChart = ({ location, techFilter }) => {
   const locationIsState = isState(location.toUpperCase());
   const locationIsCity = isCity(location);
+  const { width, height } = useWindowSize();
 
   if (!locationIsState && !locationIsCity) {
     return (
@@ -222,7 +224,7 @@ const ApexChart = ({ location, techFilter }) => {
         options={languagesGraph.options}
         series={languagesGraph.series}
         type='bar'
-        width='550'
+        width={width > 550 ? '550' : '300'}
       />
       <Text color='white' align='center' fontSize='lg' mb='5' mt='5'>
         Top 10 Frameworks & Libraries
@@ -231,7 +233,7 @@ const ApexChart = ({ location, techFilter }) => {
         options={technologyGraph.options}
         series={technologyGraph.series}
         type='bar'
-        width='550'
+        width={width > 550 ? '550' : '300'}
       />
     </div>
   );
