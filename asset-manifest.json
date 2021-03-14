@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LearnIT/static/css/main.a37e75e9.chunk.css",
-    "main.js": "/LearnIT/static/js/main.4e8c75a7.chunk.js",
-    "main.js.map": "/LearnIT/static/js/main.4e8c75a7.chunk.js.map",
+    "main.js": "/LearnIT/static/js/main.90574b15.chunk.js",
+    "main.js.map": "/LearnIT/static/js/main.90574b15.chunk.js.map",
     "runtime-main.js": "/LearnIT/static/js/runtime-main.1e457a0b.js",
     "runtime-main.js.map": "/LearnIT/static/js/runtime-main.1e457a0b.js.map",
     "static/js/2.1e47c96e.chunk.js": "/LearnIT/static/js/2.1e47c96e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1e457a0b.js",
     "static/js/2.1e47c96e.chunk.js",
     "static/css/main.a37e75e9.chunk.css",
-    "static/js/main.4e8c75a7.chunk.js"
+    "static/js/main.90574b15.chunk.js"
   ]
 }
