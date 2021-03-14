@@ -17,8 +17,8 @@ import FrontPage from './components/FrontpageComponent/FrontpageComponent'
 
 function App() {
   return (
-    <ChakraProvider theme={theme}>
-      <Box textAlign='center' fontSize='xl'>
+    <ChakraProvider>
+      {/* <Box textAlign='center' fontSize='xl'>
         <Grid minH='100vh' p={3}>
           <VStack spacing={8}>
             <Text>
@@ -38,7 +38,8 @@ function App() {
             />
           </VStack>
         </Grid>
-      </Box>
+      </Box> */}
+	  <FrontPage />
     </ChakraProvider>
   );
 }
