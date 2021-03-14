@@ -10,15 +10,15 @@ const ApexChart = props => {
     typeChart
   } = props;
 
-
+  console.log(states['FL']);
 
   const state = '' || 'FL'
-  const languages = states[state].languages.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
-  const technologies = states[state].technologies.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
+  const languages = states[state].languages.filter(lang => lang.value > 0).sort((a, b) => b.value - a.value).slice(0, 10);
+  const technologies = states[state].technologies.filter(lang => lang.value > 0).sort((a, b) => b.value - a.value).slice(0, 10);
 
   const languagesGraph = {
     series: [{
-      data: languages
+      data: toXY(languages)
     }],
     options: {
       chart: {
@@ -74,7 +74,7 @@ const ApexChart = props => {
 
   const technologyGraph = {
     series: [{
-      data: technologies
+      data: toXY(technologies)
     }],
     options: {
       chart: {
@@ -129,14 +129,12 @@ const ApexChart = props => {
   };
 
   return (<div>
-    {/* {languages.length > 0 ? (
-      <Chart
-        options={languagesGraph.options}
-        series={languagesGraph.series}
-        type={typeChart}
-        width="500"
-      />
-    )} */}
+    <Chart
+      options={languagesGraph.options}
+      series={languagesGraph.series}
+      type={typeChart}
+      width="500"
+    />
     <Chart
       options={technologyGraph.options}
       series={technologyGraph.series}
@@ -148,3 +146,13 @@ const ApexChart = props => {
 }
 
 export default ApexChart;
+
+const toXY = (array) => {
+
+  let result = [];
+  array.forEach(element => {
+    result.push({x: element.name, y: element.value});
+  });
+
+  return result;
+}
