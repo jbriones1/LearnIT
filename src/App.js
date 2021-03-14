@@ -9,16 +9,15 @@ import {
   Grid,
   theme,
 } from '@chakra-ui/react';
-import ApexChart from './components/ApexChart'
-
+import ApexChart from './components/ApexChart';
 
 // customized components
-import FrontPage from './components/FrontpageComponent/FrontpageComponent'
+import FrontPage from './components/FrontpageComponent/FrontpageComponent';
 
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <Box textAlign='center' fontSize='xl'>
+      {/* <Box textAlign='center' fontSize='xl'>
         <Grid minH='100vh' p={3}>
           <VStack spacing={8}>
             <Text>
@@ -38,7 +37,8 @@ function App() {
             />
           </VStack>
         </Grid>
-      </Box>
+      </Box> */}
+      <FrontPage />
     </ChakraProvider>
   );
 }
