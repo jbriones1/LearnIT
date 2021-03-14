@@ -1,7 +1,9 @@
 import React from 'react';
 import { Button, SimpleGrid } from "@chakra-ui/react";
 
-const FilterButtons = () => {
+const FilterButtons = props => {
+  const {colNum} = props;
+
   const languages = [
     {name: 'Rust', icon: 'devicon-rust-plain'},
     {name: 'Javascript', icon:'devicon-javascript-plain c'},
@@ -33,7 +35,7 @@ const FilterButtons = () => {
   });
 
   return (
-    <SimpleGrid columns={5} spacingX="10px" spacingY="10px">
+    <SimpleGrid columns={colNum} spacingX="10px" spacingY="10px">
       {buttonList}
     </SimpleGrid>
   );
