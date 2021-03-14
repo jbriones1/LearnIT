@@ -19,6 +19,11 @@ const FrontPage = () => {
   // to handle location change
   const handleChange = (e) => setLocation(e.target.value);
 
+  // to handle searching and moving to next page
+  const submitSearch = (search) => {
+    console.log(search);
+  }
+
     return (
 
         <Box m="auto"
@@ -42,8 +47,7 @@ const FrontPage = () => {
                           fontSize="lg"
                           mb="10"
                           >Find popular programming languages and frameworks near you</Text>
-                    <SearchBar handleChange={handleChange} />
-
+                    <SearchBar handleChange={handleChange} submitSearch={submitSearch}/>
                     <FilterButtons colNum={5} />
                 </Box>
             </Center>

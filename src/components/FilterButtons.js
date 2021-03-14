@@ -32,7 +32,7 @@ const FilterButtons = props => {
         key={index} 
         bg='#1B213B' 
         color='#A0AEC0' 
-        leftIcon={<i class={language.icon} />}
+        leftIcon={<i className={language.icon} />}
         width='120px'
         >
         {language.name}

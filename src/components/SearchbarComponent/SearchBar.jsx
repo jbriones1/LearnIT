@@ -28,8 +28,19 @@ const getSuggestions = (value) => {
   }
 };
 
-const SearchBar = ({ handleChange }) => {
+const SearchBar = ({ handleChange, submitSearch }) => {
   const [suggestions, setSuggestions] = useState([]);
+
+  const [searchLocation, setSearchLocation] = useState('');
+
+  const onSubmit = (e) => {
+    if (!searchLocation || !locations.includes(searchLocation)) {
+      alert("Location not found");
+      return;
+    }
+
+    submitSearch(searchLocation);
+  }
 
   return (
     <>
@@ -39,28 +50,31 @@ const SearchBar = ({ handleChange }) => {
         size='lg'
         color="white"
         fontSize="xl"
+        text={searchLocation}
         onChange={(e) => {
           setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
+          setSearchLocation(e.target.value.trim());
+          console.log(searchLocation);
           handleChange(e);
         }}
       />
       {suggestions.length !== 0 &&
         suggestions.map((suggestion) => <Center my="2"
-                                                color="white"
-                                                fontWeight="light"
-                                                fontSize="xl">{suggestion}</Center>)}
-                                                                    <Stack  my="10"
-                            align="center">
-                        <Button backgroundColor="teal.100"
-                                color="black"
-                                w="250px"
-                                h="50px"
-                                borderRadius="15px"
-                                p="7"
-                                fontSize="xl"
-                                >Get Started <ArrowForwardIcon /></Button>
-
-                    </Stack>
+          color="white"
+          fontWeight="light"
+          fontSize="xl">{suggestion}</Center>)}
+      <Stack my="10"
+        align="center">
+        <Button backgroundColor="teal.100"
+          color="black"
+          w="250px"
+          h="50px"
+          borderRadius="15px"
+          p="7"
+          fontSize="xl"
+          onClick={onSubmit}
+        >Get Started <ArrowForwardIcon /></Button>
+      </Stack>
     </>
   );
 };
