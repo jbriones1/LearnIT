@@ -1,0 +1,7040 @@
+{
+  "AK": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 0
+      },
+      {
+        "name": "c++",
+        "value": 0
+      },
+      {
+        "name": "c",
+        "value": 0
+      },
+      {
+        "name": "java",
+        "value": 1
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 2
+      },
+      {
+        "name": "c#",
+        "value": 3
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 2
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 0
+      }
+    ]
+  },
+  "AL": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 3
+      },
+      {
+        "name": "swift",
+        "value": 3
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 9
+      },
+      {
+        "name": "python",
+        "value": 36
+      },
+      {
+        "name": "c++",
+        "value": 50
+      },
+      {
+        "name": "c",
+        "value": 36
+      },
+      {
+        "name": "java",
+        "value": 117
+      },
+      {
+        "name": "typescript",
+        "value": 11
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 73
+      },
+      {
+        "name": "c#",
+        "value": 105
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 1
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 5
+      },
+      {
+        "name": "postgresql",
+        "value": 4
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 5
+      },
+      {
+        "name": "mysql",
+        "value": 2
+      },
+      {
+        "name": "mongodb",
+        "value": 1
+      },
+      {
+        "name": "jquery",
+        "value": 25
+      },
+      {
+        "name": "react",
+        "value": 10
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 21
+      }
+    ]
+  },
+  "AR": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 5
+      },
+      {
+        "name": "python",
+        "value": 10
+      },
+      {
+        "name": "c++",
+        "value": 19
+      },
+      {
+        "name": "c",
+        "value": 11
+      },
+      {
+        "name": "java",
+        "value": 32
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 32
+      },
+      {
+        "name": "c#",
+        "value": 19
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 8
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 2
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 1
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 8
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 4
+      },
+      {
+        "name": "react",
+        "value": 10
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 5
+      }
+    ]
+  },
+  "AZ": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 2
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 12
+      },
+      {
+        "name": "python",
+        "value": 73
+      },
+      {
+        "name": "c++",
+        "value": 53
+      },
+      {
+        "name": "c",
+        "value": 38
+      },
+      {
+        "name": "java",
+        "value": 206
+      },
+      {
+        "name": "typescript",
+        "value": 14
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 155
+      },
+      {
+        "name": "c#",
+        "value": 193
+      },
+      {
+        "name": "kotlin",
+        "value": 2
+      },
+      {
+        "name": "ruby",
+        "value": 29
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 21
+      },
+      {
+        "name": "django",
+        "value": 10
+      },
+      {
+        "name": "postgresql",
+        "value": 10
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 28
+      },
+      {
+        "name": "mysql",
+        "value": 32
+      },
+      {
+        "name": "mongodb",
+        "value": 15
+      },
+      {
+        "name": "jquery",
+        "value": 54
+      },
+      {
+        "name": "react",
+        "value": 58
+      },
+      {
+        "name": "flask",
+        "value": 10
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 126
+      },
+      {
+        "name": "angular",
+        "value": 72
+      }
+    ]
+  },
+  "CA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 18
+      },
+      {
+        "name": "swift",
+        "value": 22
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 34
+      },
+      {
+        "name": "php",
+        "value": 103
+      },
+      {
+        "name": "python",
+        "value": 382
+      },
+      {
+        "name": "c++",
+        "value": 390
+      },
+      {
+        "name": "c",
+        "value": 240
+      },
+      {
+        "name": "java",
+        "value": 676
+      },
+      {
+        "name": "typescript",
+        "value": 23
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 6
+      },
+      {
+        "name": "javascript",
+        "value": 585
+      },
+      {
+        "name": "c#",
+        "value": 528
+      },
+      {
+        "name": "kotlin",
+        "value": 2
+      },
+      {
+        "name": "ruby",
+        "value": 70
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 1
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 19
+      },
+      {
+        "name": "django",
+        "value": 19
+      },
+      {
+        "name": "postgresql",
+        "value": 48
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 27
+      },
+      {
+        "name": "mysql",
+        "value": 130
+      },
+      {
+        "name": "mongodb",
+        "value": 28
+      },
+      {
+        "name": "jquery",
+        "value": 105
+      },
+      {
+        "name": "react",
+        "value": 169
+      },
+      {
+        "name": "flask",
+        "value": 4
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 3
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 150
+      }
+    ]
+  },
+  "CO": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 6
+      },
+      {
+        "name": "swift",
+        "value": 7
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 20
+      },
+      {
+        "name": "python",
+        "value": 48
+      },
+      {
+        "name": "c++",
+        "value": 61
+      },
+      {
+        "name": "c",
+        "value": 33
+      },
+      {
+        "name": "java",
+        "value": 161
+      },
+      {
+        "name": "typescript",
+        "value": 21
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 9
+      },
+      {
+        "name": "javascript",
+        "value": 177
+      },
+      {
+        "name": "c#",
+        "value": 119
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 29
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 14
+      },
+      {
+        "name": "django",
+        "value": 3
+      },
+      {
+        "name": "postgresql",
+        "value": 15
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 1
+      },
+      {
+        "name": "mysql",
+        "value": 44
+      },
+      {
+        "name": "mongodb",
+        "value": 45
+      },
+      {
+        "name": "jquery",
+        "value": 28
+      },
+      {
+        "name": "react",
+        "value": 32
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 4
+      },
+      {
+        "name": "angular",
+        "value": 47
+      }
+    ]
+  },
+  "CT": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 10
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 20
+      },
+      {
+        "name": "c++",
+        "value": 11
+      },
+      {
+        "name": "c",
+        "value": 44
+      },
+      {
+        "name": "java",
+        "value": 127
+      },
+      {
+        "name": "typescript",
+        "value": 1
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 107
+      },
+      {
+        "name": "c#",
+        "value": 104
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 8
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 12
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 10
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 17
+      },
+      {
+        "name": "jquery",
+        "value": 21
+      },
+      {
+        "name": "react",
+        "value": 25
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 47
+      }
+    ]
+  },
+  "DC": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 18
+      },
+      {
+        "name": "python",
+        "value": 107
+      },
+      {
+        "name": "c++",
+        "value": 36
+      },
+      {
+        "name": "c",
+        "value": 57
+      },
+      {
+        "name": "java",
+        "value": 150
+      },
+      {
+        "name": "typescript",
+        "value": 18
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 14
+      },
+      {
+        "name": "javascript",
+        "value": 134
+      },
+      {
+        "name": "c#",
+        "value": 86
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 7
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 23
+      },
+      {
+        "name": "postgresql",
+        "value": 37
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 5
+      },
+      {
+        "name": "mysql",
+        "value": 4
+      },
+      {
+        "name": "mongodb",
+        "value": 4
+      },
+      {
+        "name": "jquery",
+        "value": 37
+      },
+      {
+        "name": "react",
+        "value": 30
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 77
+      }
+    ]
+  },
+  "DE": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 2
+      },
+      {
+        "name": "python",
+        "value": 4
+      },
+      {
+        "name": "c++",
+        "value": 2
+      },
+      {
+        "name": "c",
+        "value": 2
+      },
+      {
+        "name": "java",
+        "value": 8
+      },
+      {
+        "name": "typescript",
+        "value": 3
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 7
+      },
+      {
+        "name": "c#",
+        "value": 19
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 3
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 5
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 5
+      }
+    ]
+  },
+  "FL": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 12
+      },
+      {
+        "name": "swift",
+        "value": 15
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 7
+      },
+      {
+        "name": "php",
+        "value": 59
+      },
+      {
+        "name": "python",
+        "value": 65
+      },
+      {
+        "name": "c++",
+        "value": 63
+      },
+      {
+        "name": "c",
+        "value": 40
+      },
+      {
+        "name": "java",
+        "value": 227
+      },
+      {
+        "name": "typescript",
+        "value": 36
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 6
+      },
+      {
+        "name": "javascript",
+        "value": 312
+      },
+      {
+        "name": "c#",
+        "value": 333
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 41
+      },
+      {
+        "name": "rust",
+        "value": 3
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 1
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 13
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 11
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 4
+      },
+      {
+        "name": "mysql",
+        "value": 58
+      },
+      {
+        "name": "mongodb",
+        "value": 42
+      },
+      {
+        "name": "jquery",
+        "value": 93
+      },
+      {
+        "name": "react",
+        "value": 48
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 5
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 115
+      }
+    ]
+  },
+  "GA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 3
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 9
+      },
+      {
+        "name": "python",
+        "value": 51
+      },
+      {
+        "name": "c++",
+        "value": 91
+      },
+      {
+        "name": "c",
+        "value": 69
+      },
+      {
+        "name": "java",
+        "value": 262
+      },
+      {
+        "name": "typescript",
+        "value": 6
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 2
+      },
+      {
+        "name": "javascript",
+        "value": 221
+      },
+      {
+        "name": "c#",
+        "value": 183
+      },
+      {
+        "name": "kotlin",
+        "value": 3
+      },
+      {
+        "name": "ruby",
+        "value": 17
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 15
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 11
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 18
+      },
+      {
+        "name": "mysql",
+        "value": 15
+      },
+      {
+        "name": "mongodb",
+        "value": 13
+      },
+      {
+        "name": "jquery",
+        "value": 34
+      },
+      {
+        "name": "react",
+        "value": 35
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 56
+      }
+    ]
+  },
+  "HI": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 0
+      },
+      {
+        "name": "python",
+        "value": 1
+      },
+      {
+        "name": "c++",
+        "value": 3
+      },
+      {
+        "name": "c",
+        "value": 3
+      },
+      {
+        "name": "java",
+        "value": 6
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 0
+      },
+      {
+        "name": "c#",
+        "value": 6
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 1
+      },
+      {
+        "name": "mysql",
+        "value": 0
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 0
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 1
+      }
+    ]
+  },
+  "IA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 2
+      },
+      {
+        "name": "swift",
+        "value": 3
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 4
+      },
+      {
+        "name": "php",
+        "value": 2
+      },
+      {
+        "name": "python",
+        "value": 18
+      },
+      {
+        "name": "c++",
+        "value": 13
+      },
+      {
+        "name": "c",
+        "value": 8
+      },
+      {
+        "name": "java",
+        "value": 23
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 45
+      },
+      {
+        "name": "c#",
+        "value": 73
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 1
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 3
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 5
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 1
+      },
+      {
+        "name": "mysql",
+        "value": 10
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 3
+      },
+      {
+        "name": "react",
+        "value": 7
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 9
+      }
+    ]
+  },
+  "ID": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 1
+      },
+      {
+        "name": "swift",
+        "value": 5
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 5
+      },
+      {
+        "name": "python",
+        "value": 8
+      },
+      {
+        "name": "c++",
+        "value": 10
+      },
+      {
+        "name": "c",
+        "value": 12
+      },
+      {
+        "name": "java",
+        "value": 34
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 22
+      },
+      {
+        "name": "c#",
+        "value": 32
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 8
+      },
+      {
+        "name": "mysql",
+        "value": 4
+      },
+      {
+        "name": "mongodb",
+        "value": 2
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 8
+      }
+    ]
+  },
+  "IL": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 5
+      },
+      {
+        "name": "swift",
+        "value": 5
+      },
+      {
+        "name": "haskell",
+        "value": 3
+      },
+      {
+        "name": "scala",
+        "value": 23
+      },
+      {
+        "name": "php",
+        "value": 40
+      },
+      {
+        "name": "python",
+        "value": 68
+      },
+      {
+        "name": "c++",
+        "value": 127
+      },
+      {
+        "name": "c",
+        "value": 301
+      },
+      {
+        "name": "java",
+        "value": 1031
+      },
+      {
+        "name": "typescript",
+        "value": 14
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 728
+      },
+      {
+        "name": "c#",
+        "value": 252
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 14
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 8
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 6
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 19
+      },
+      {
+        "name": "mysql",
+        "value": 10
+      },
+      {
+        "name": "mongodb",
+        "value": 11
+      },
+      {
+        "name": "jquery",
+        "value": 325
+      },
+      {
+        "name": "react",
+        "value": 280
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 326
+      }
+    ]
+  },
+  "IN": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 13
+      },
+      {
+        "name": "python",
+        "value": 12
+      },
+      {
+        "name": "c++",
+        "value": 25
+      },
+      {
+        "name": "c",
+        "value": 15
+      },
+      {
+        "name": "java",
+        "value": 81
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 72
+      },
+      {
+        "name": "c#",
+        "value": 84
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 9
+      },
+      {
+        "name": "rust",
+        "value": 1
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 1
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 7
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 11
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 14
+      },
+      {
+        "name": "react",
+        "value": 7
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 21
+      }
+    ]
+  },
+  "KS": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 2
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 2
+      },
+      {
+        "name": "python",
+        "value": 12
+      },
+      {
+        "name": "c++",
+        "value": 19
+      },
+      {
+        "name": "c",
+        "value": 13
+      },
+      {
+        "name": "java",
+        "value": 29
+      },
+      {
+        "name": "typescript",
+        "value": 7
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 65
+      },
+      {
+        "name": "c#",
+        "value": 62
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 2
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 7
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 0
+      },
+      {
+        "name": "mongodb",
+        "value": 6
+      },
+      {
+        "name": "jquery",
+        "value": 10
+      },
+      {
+        "name": "react",
+        "value": 17
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 26
+      }
+    ]
+  },
+  "KY": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 1
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 6
+      },
+      {
+        "name": "python",
+        "value": 5
+      },
+      {
+        "name": "c++",
+        "value": 1
+      },
+      {
+        "name": "c",
+        "value": 3
+      },
+      {
+        "name": "java",
+        "value": 8
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 22
+      },
+      {
+        "name": "c#",
+        "value": 31
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 4
+      },
+      {
+        "name": "elm",
+        "value": 1
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 6
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 5
+      },
+      {
+        "name": "react",
+        "value": 5
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 12
+      }
+    ]
+  },
+  "LA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 3
+      },
+      {
+        "name": "python",
+        "value": 6
+      },
+      {
+        "name": "c++",
+        "value": 1
+      },
+      {
+        "name": "c",
+        "value": 7
+      },
+      {
+        "name": "java",
+        "value": 25
+      },
+      {
+        "name": "typescript",
+        "value": 9
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 34
+      },
+      {
+        "name": "c#",
+        "value": 30
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 0
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 4
+      },
+      {
+        "name": "mysql",
+        "value": 9
+      },
+      {
+        "name": "mongodb",
+        "value": 7
+      },
+      {
+        "name": "jquery",
+        "value": 8
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 4
+      }
+    ]
+  },
+  "MA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 1
+      },
+      {
+        "name": "swift",
+        "value": 6
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 11
+      },
+      {
+        "name": "php",
+        "value": 25
+      },
+      {
+        "name": "python",
+        "value": 98
+      },
+      {
+        "name": "c++",
+        "value": 112
+      },
+      {
+        "name": "c",
+        "value": 63
+      },
+      {
+        "name": "java",
+        "value": 366
+      },
+      {
+        "name": "typescript",
+        "value": 3
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 6
+      },
+      {
+        "name": "javascript",
+        "value": 168
+      },
+      {
+        "name": "c#",
+        "value": 186
+      },
+      {
+        "name": "kotlin",
+        "value": 4
+      },
+      {
+        "name": "ruby",
+        "value": 19
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 4
+      },
+      {
+        "name": "elixir",
+        "value": 2
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 10
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 6
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 9
+      },
+      {
+        "name": "mysql",
+        "value": 21
+      },
+      {
+        "name": "mongodb",
+        "value": 17
+      },
+      {
+        "name": "jquery",
+        "value": 30
+      },
+      {
+        "name": "react",
+        "value": 84
+      },
+      {
+        "name": "flask",
+        "value": 6
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 41
+      }
+    ]
+  },
+  "MD": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 2
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 3
+      },
+      {
+        "name": "php",
+        "value": 52
+      },
+      {
+        "name": "python",
+        "value": 198
+      },
+      {
+        "name": "c++",
+        "value": 229
+      },
+      {
+        "name": "c",
+        "value": 194
+      },
+      {
+        "name": "java",
+        "value": 675
+      },
+      {
+        "name": "typescript",
+        "value": 19
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 332
+      },
+      {
+        "name": "c#",
+        "value": 251
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 33
+      },
+      {
+        "name": "rust",
+        "value": 1
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 9
+      },
+      {
+        "name": "django",
+        "value": 24
+      },
+      {
+        "name": "postgresql",
+        "value": 21
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 11
+      },
+      {
+        "name": "mysql",
+        "value": 43
+      },
+      {
+        "name": "mongodb",
+        "value": 23
+      },
+      {
+        "name": "jquery",
+        "value": 144
+      },
+      {
+        "name": "react",
+        "value": 29
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 133
+      }
+    ]
+  },
+  "ME": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 3
+      },
+      {
+        "name": "c++",
+        "value": 0
+      },
+      {
+        "name": "c",
+        "value": 0
+      },
+      {
+        "name": "java",
+        "value": 1
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 2
+      },
+      {
+        "name": "c#",
+        "value": 3
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 2
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 0
+      }
+    ]
+  },
+  "MI": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 4
+      },
+      {
+        "name": "swift",
+        "value": 20
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 22
+      },
+      {
+        "name": "python",
+        "value": 60
+      },
+      {
+        "name": "c++",
+        "value": 84
+      },
+      {
+        "name": "c",
+        "value": 65
+      },
+      {
+        "name": "java",
+        "value": 191
+      },
+      {
+        "name": "typescript",
+        "value": 10
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 133
+      },
+      {
+        "name": "c#",
+        "value": 119
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 10
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 6
+      },
+      {
+        "name": "django",
+        "value": 7
+      },
+      {
+        "name": "postgresql",
+        "value": 14
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 1
+      },
+      {
+        "name": "mysql",
+        "value": 27
+      },
+      {
+        "name": "mongodb",
+        "value": 6
+      },
+      {
+        "name": "jquery",
+        "value": 49
+      },
+      {
+        "name": "react",
+        "value": 59
+      },
+      {
+        "name": "flask",
+        "value": 5
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 98
+      }
+    ]
+  },
+  "MN": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 2
+      },
+      {
+        "name": "swift",
+        "value": 5
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 11
+      },
+      {
+        "name": "python",
+        "value": 10
+      },
+      {
+        "name": "c++",
+        "value": 23
+      },
+      {
+        "name": "c",
+        "value": 17
+      },
+      {
+        "name": "java",
+        "value": 205
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 130
+      },
+      {
+        "name": "c#",
+        "value": 55
+      },
+      {
+        "name": "kotlin",
+        "value": 4
+      },
+      {
+        "name": "ruby",
+        "value": 4
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 53
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 7
+      },
+      {
+        "name": "mysql",
+        "value": 25
+      },
+      {
+        "name": "mongodb",
+        "value": 9
+      },
+      {
+        "name": "jquery",
+        "value": 37
+      },
+      {
+        "name": "react",
+        "value": 17
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 53
+      }
+    ]
+  },
+  "MO": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 1
+      },
+      {
+        "name": "swift",
+        "value": 6
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 8
+      },
+      {
+        "name": "php",
+        "value": 24
+      },
+      {
+        "name": "python",
+        "value": 40
+      },
+      {
+        "name": "c++",
+        "value": 25
+      },
+      {
+        "name": "c",
+        "value": 50
+      },
+      {
+        "name": "java",
+        "value": 157
+      },
+      {
+        "name": "typescript",
+        "value": 19
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 1
+      },
+      {
+        "name": "javascript",
+        "value": 125
+      },
+      {
+        "name": "c#",
+        "value": 83
+      },
+      {
+        "name": "kotlin",
+        "value": 1
+      },
+      {
+        "name": "ruby",
+        "value": 14
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 15
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 9
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 17
+      },
+      {
+        "name": "mongodb",
+        "value": 6
+      },
+      {
+        "name": "jquery",
+        "value": 29
+      },
+      {
+        "name": "react",
+        "value": 42
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 33
+      }
+    ]
+  },
+  "MS": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 3
+      },
+      {
+        "name": "python",
+        "value": 4
+      },
+      {
+        "name": "c++",
+        "value": 5
+      },
+      {
+        "name": "c",
+        "value": 4
+      },
+      {
+        "name": "java",
+        "value": 3
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 7
+      },
+      {
+        "name": "c#",
+        "value": 13
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 5
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 6
+      }
+    ]
+  },
+  "MT": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 4
+      },
+      {
+        "name": "python",
+        "value": 0
+      },
+      {
+        "name": "c++",
+        "value": 0
+      },
+      {
+        "name": "c",
+        "value": 0
+      },
+      {
+        "name": "java",
+        "value": 1
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 6
+      },
+      {
+        "name": "c#",
+        "value": 3
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 2
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 2
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 1
+      }
+    ]
+  },
+  "NC": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 2
+      },
+      {
+        "name": "swift",
+        "value": 16
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 10
+      },
+      {
+        "name": "python",
+        "value": 92
+      },
+      {
+        "name": "c++",
+        "value": 112
+      },
+      {
+        "name": "c",
+        "value": 81
+      },
+      {
+        "name": "java",
+        "value": 350
+      },
+      {
+        "name": "typescript",
+        "value": 30
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 4
+      },
+      {
+        "name": "javascript",
+        "value": 226
+      },
+      {
+        "name": "c#",
+        "value": 184
+      },
+      {
+        "name": "kotlin",
+        "value": 5
+      },
+      {
+        "name": "ruby",
+        "value": 16
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 8
+      },
+      {
+        "name": "django",
+        "value": 3
+      },
+      {
+        "name": "postgresql",
+        "value": 20
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 2
+      },
+      {
+        "name": "mysql",
+        "value": 19
+      },
+      {
+        "name": "mongodb",
+        "value": 13
+      },
+      {
+        "name": "jquery",
+        "value": 48
+      },
+      {
+        "name": "react",
+        "value": 64
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 2
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 116
+      }
+    ]
+  },
+  "ND": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 0
+      },
+      {
+        "name": "c++",
+        "value": 0
+      },
+      {
+        "name": "c",
+        "value": 0
+      },
+      {
+        "name": "java",
+        "value": 1
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 2
+      },
+      {
+        "name": "c#",
+        "value": 3
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 0
+      }
+    ]
+  },
+  "NE": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 1
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 4
+      },
+      {
+        "name": "c++",
+        "value": 7
+      },
+      {
+        "name": "c",
+        "value": 6
+      },
+      {
+        "name": "java",
+        "value": 78
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 19
+      },
+      {
+        "name": "c#",
+        "value": 19
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 5
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 9
+      },
+      {
+        "name": "react",
+        "value": 2
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 4
+      }
+    ]
+  },
+  "NH": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 4
+      },
+      {
+        "name": "python",
+        "value": 24
+      },
+      {
+        "name": "c++",
+        "value": 5
+      },
+      {
+        "name": "c",
+        "value": 6
+      },
+      {
+        "name": "java",
+        "value": 90
+      },
+      {
+        "name": "typescript",
+        "value": 2
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 7
+      },
+      {
+        "name": "javascript",
+        "value": 38
+      },
+      {
+        "name": "c#",
+        "value": 14
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 4
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 5
+      },
+      {
+        "name": "mysql",
+        "value": 3
+      },
+      {
+        "name": "mongodb",
+        "value": 5
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 21
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 13
+      }
+    ]
+  },
+  "NJ": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 3
+      },
+      {
+        "name": "php",
+        "value": 19
+      },
+      {
+        "name": "python",
+        "value": 66
+      },
+      {
+        "name": "c++",
+        "value": 99
+      },
+      {
+        "name": "c",
+        "value": 52
+      },
+      {
+        "name": "java",
+        "value": 187
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 129
+      },
+      {
+        "name": "c#",
+        "value": 108
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 2
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 6
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 15
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 1
+      },
+      {
+        "name": "mysql",
+        "value": 44
+      },
+      {
+        "name": "mongodb",
+        "value": 8
+      },
+      {
+        "name": "jquery",
+        "value": 55
+      },
+      {
+        "name": "react",
+        "value": 23
+      },
+      {
+        "name": "flask",
+        "value": 4
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 2
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 39
+      }
+    ]
+  },
+  "NM": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 7
+      },
+      {
+        "name": "python",
+        "value": 8
+      },
+      {
+        "name": "c++",
+        "value": 34
+      },
+      {
+        "name": "c",
+        "value": 14
+      },
+      {
+        "name": "java",
+        "value": 64
+      },
+      {
+        "name": "typescript",
+        "value": 2
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 32
+      },
+      {
+        "name": "c#",
+        "value": 18
+      },
+      {
+        "name": "kotlin",
+        "value": 2
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 2
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 3
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 2
+      },
+      {
+        "name": "mysql",
+        "value": 3
+      },
+      {
+        "name": "mongodb",
+        "value": 3
+      },
+      {
+        "name": "jquery",
+        "value": 7
+      },
+      {
+        "name": "react",
+        "value": 5
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 5
+      }
+    ]
+  },
+  "NV": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 10
+      },
+      {
+        "name": "python",
+        "value": 2
+      },
+      {
+        "name": "c++",
+        "value": 4
+      },
+      {
+        "name": "c",
+        "value": 2
+      },
+      {
+        "name": "java",
+        "value": 12
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 14
+      },
+      {
+        "name": "c#",
+        "value": 15
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 3
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 6
+      },
+      {
+        "name": "react",
+        "value": 5
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 1
+      }
+    ]
+  },
+  "NY": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 4
+      },
+      {
+        "name": "swift",
+        "value": 4
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 6
+      },
+      {
+        "name": "php",
+        "value": 22
+      },
+      {
+        "name": "python",
+        "value": 83
+      },
+      {
+        "name": "c++",
+        "value": 69
+      },
+      {
+        "name": "c",
+        "value": 28
+      },
+      {
+        "name": "java",
+        "value": 222
+      },
+      {
+        "name": "typescript",
+        "value": 8
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 158
+      },
+      {
+        "name": "c#",
+        "value": 135
+      },
+      {
+        "name": "kotlin",
+        "value": 2
+      },
+      {
+        "name": "ruby",
+        "value": 13
+      },
+      {
+        "name": "rust",
+        "value": 1
+      },
+      {
+        "name": "f#",
+        "value": 2
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 2
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 20
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 3
+      },
+      {
+        "name": "mysql",
+        "value": 23
+      },
+      {
+        "name": "mongodb",
+        "value": 16
+      },
+      {
+        "name": "jquery",
+        "value": 58
+      },
+      {
+        "name": "react",
+        "value": 49
+      },
+      {
+        "name": "flask",
+        "value": 1
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 3
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 66
+      }
+    ]
+  },
+  "OH": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 1
+      },
+      {
+        "name": "swift",
+        "value": 3
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 6
+      },
+      {
+        "name": "python",
+        "value": 204
+      },
+      {
+        "name": "c++",
+        "value": 53
+      },
+      {
+        "name": "c",
+        "value": 17
+      },
+      {
+        "name": "java",
+        "value": 263
+      },
+      {
+        "name": "typescript",
+        "value": 7
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 269
+      },
+      {
+        "name": "c#",
+        "value": 253
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 8
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 5
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 27
+      },
+      {
+        "name": "mysql",
+        "value": 7
+      },
+      {
+        "name": "mongodb",
+        "value": 13
+      },
+      {
+        "name": "jquery",
+        "value": 83
+      },
+      {
+        "name": "react",
+        "value": 32
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 73
+      }
+    ]
+  },
+  "OK": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 2
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 2
+      },
+      {
+        "name": "php",
+        "value": 10
+      },
+      {
+        "name": "python",
+        "value": 11
+      },
+      {
+        "name": "c++",
+        "value": 16
+      },
+      {
+        "name": "c",
+        "value": 29
+      },
+      {
+        "name": "java",
+        "value": 48
+      },
+      {
+        "name": "typescript",
+        "value": 3
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 2
+      },
+      {
+        "name": "javascript",
+        "value": 52
+      },
+      {
+        "name": "c#",
+        "value": 41
+      },
+      {
+        "name": "kotlin",
+        "value": 3
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 6
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 3
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 1
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 4
+      },
+      {
+        "name": "mongodb",
+        "value": 7
+      },
+      {
+        "name": "jquery",
+        "value": 27
+      },
+      {
+        "name": "react",
+        "value": 4
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 4
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 25
+      }
+    ]
+  },
+  "OR": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 22
+      },
+      {
+        "name": "python",
+        "value": 10
+      },
+      {
+        "name": "c++",
+        "value": 23
+      },
+      {
+        "name": "c",
+        "value": 7
+      },
+      {
+        "name": "java",
+        "value": 49
+      },
+      {
+        "name": "typescript",
+        "value": 8
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 45
+      },
+      {
+        "name": "c#",
+        "value": 85
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 5
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 4
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 4
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 23
+      },
+      {
+        "name": "mysql",
+        "value": 14
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 10
+      },
+      {
+        "name": "react",
+        "value": 9
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 26
+      }
+    ]
+  },
+  "PA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 2
+      },
+      {
+        "name": "swift",
+        "value": 2
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 15
+      },
+      {
+        "name": "php",
+        "value": 16
+      },
+      {
+        "name": "python",
+        "value": 86
+      },
+      {
+        "name": "c++",
+        "value": 60
+      },
+      {
+        "name": "c",
+        "value": 42
+      },
+      {
+        "name": "java",
+        "value": 321
+      },
+      {
+        "name": "typescript",
+        "value": 12
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 187
+      },
+      {
+        "name": "c#",
+        "value": 171
+      },
+      {
+        "name": "kotlin",
+        "value": 4
+      },
+      {
+        "name": "ruby",
+        "value": 14
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 2
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 18
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 2
+      },
+      {
+        "name": "mysql",
+        "value": 31
+      },
+      {
+        "name": "mongodb",
+        "value": 10
+      },
+      {
+        "name": "jquery",
+        "value": 52
+      },
+      {
+        "name": "react",
+        "value": 11
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 81
+      }
+    ]
+  },
+  "RI": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 2
+      },
+      {
+        "name": "python",
+        "value": 2
+      },
+      {
+        "name": "c++",
+        "value": 14
+      },
+      {
+        "name": "c",
+        "value": 2
+      },
+      {
+        "name": "java",
+        "value": 13
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 8
+      },
+      {
+        "name": "c#",
+        "value": 18
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 5
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 1
+      }
+    ]
+  },
+  "SC": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 5
+      },
+      {
+        "name": "python",
+        "value": 14
+      },
+      {
+        "name": "c++",
+        "value": 13
+      },
+      {
+        "name": "c",
+        "value": 14
+      },
+      {
+        "name": "java",
+        "value": 51
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 29
+      },
+      {
+        "name": "c#",
+        "value": 20
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 2
+      },
+      {
+        "name": "postgresql",
+        "value": 3
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 3
+      },
+      {
+        "name": "mysql",
+        "value": 7
+      },
+      {
+        "name": "mongodb",
+        "value": 3
+      },
+      {
+        "name": "jquery",
+        "value": 15
+      },
+      {
+        "name": "react",
+        "value": 3
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 6
+      }
+    ]
+  },
+  "SD": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 5
+      },
+      {
+        "name": "python",
+        "value": 6
+      },
+      {
+        "name": "c++",
+        "value": 4
+      },
+      {
+        "name": "c",
+        "value": 1
+      },
+      {
+        "name": "java",
+        "value": 10
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 8
+      },
+      {
+        "name": "c#",
+        "value": 11
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 3
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 5
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 2
+      }
+    ]
+  },
+  "TN": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 1
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 11
+      },
+      {
+        "name": "python",
+        "value": 34
+      },
+      {
+        "name": "c++",
+        "value": 13
+      },
+      {
+        "name": "c",
+        "value": 7
+      },
+      {
+        "name": "java",
+        "value": 68
+      },
+      {
+        "name": "typescript",
+        "value": 4
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 71
+      },
+      {
+        "name": "c#",
+        "value": 70
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 0
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 1
+      },
+      {
+        "name": "django",
+        "value": 4
+      },
+      {
+        "name": "postgresql",
+        "value": 2
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 11
+      },
+      {
+        "name": "mysql",
+        "value": 11
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 31
+      },
+      {
+        "name": "react",
+        "value": 21
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 19
+      }
+    ]
+  },
+  "TX": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 9
+      },
+      {
+        "name": "swift",
+        "value": 13
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 28
+      },
+      {
+        "name": "php",
+        "value": 58
+      },
+      {
+        "name": "python",
+        "value": 227
+      },
+      {
+        "name": "c++",
+        "value": 202
+      },
+      {
+        "name": "c",
+        "value": 178
+      },
+      {
+        "name": "java",
+        "value": 601
+      },
+      {
+        "name": "typescript",
+        "value": 30
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 10
+      },
+      {
+        "name": "javascript",
+        "value": 399
+      },
+      {
+        "name": "c#",
+        "value": 474
+      },
+      {
+        "name": "kotlin",
+        "value": 3
+      },
+      {
+        "name": "ruby",
+        "value": 46
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 2
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 25
+      },
+      {
+        "name": "django",
+        "value": 7
+      },
+      {
+        "name": "postgresql",
+        "value": 31
+      },
+      {
+        "name": "elm",
+        "value": 1
+      },
+      {
+        "name": "express",
+        "value": 35
+      },
+      {
+        "name": "mysql",
+        "value": 62
+      },
+      {
+        "name": "mongodb",
+        "value": 27
+      },
+      {
+        "name": "jquery",
+        "value": 120
+      },
+      {
+        "name": "react",
+        "value": 108
+      },
+      {
+        "name": "flask",
+        "value": 10
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 1
+      },
+      {
+        "name": "angular",
+        "value": 155
+      }
+    ]
+  },
+  "UT": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 16
+      },
+      {
+        "name": "swift",
+        "value": 20
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 12
+      },
+      {
+        "name": "php",
+        "value": 12
+      },
+      {
+        "name": "python",
+        "value": 18
+      },
+      {
+        "name": "c++",
+        "value": 20
+      },
+      {
+        "name": "c",
+        "value": 15
+      },
+      {
+        "name": "java",
+        "value": 197
+      },
+      {
+        "name": "typescript",
+        "value": 18
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 115
+      },
+      {
+        "name": "c#",
+        "value": 70
+      },
+      {
+        "name": "kotlin",
+        "value": 28
+      },
+      {
+        "name": "ruby",
+        "value": 2
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 14
+      },
+      {
+        "name": "django",
+        "value": 1
+      },
+      {
+        "name": "postgresql",
+        "value": 11
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 5
+      },
+      {
+        "name": "mysql",
+        "value": 13
+      },
+      {
+        "name": "mongodb",
+        "value": 6
+      },
+      {
+        "name": "jquery",
+        "value": 20
+      },
+      {
+        "name": "react",
+        "value": 54
+      },
+      {
+        "name": "flask",
+        "value": 4
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 4
+      },
+      {
+        "name": "phoenix",
+        "value": 10
+      },
+      {
+        "name": "angular",
+        "value": 48
+      }
+    ]
+  },
+  "VA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 10
+      },
+      {
+        "name": "swift",
+        "value": 72
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 48
+      },
+      {
+        "name": "php",
+        "value": 118
+      },
+      {
+        "name": "python",
+        "value": 353
+      },
+      {
+        "name": "c++",
+        "value": 241
+      },
+      {
+        "name": "c",
+        "value": 251
+      },
+      {
+        "name": "java",
+        "value": 1043
+      },
+      {
+        "name": "typescript",
+        "value": 48
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 7
+      },
+      {
+        "name": "javascript",
+        "value": 631
+      },
+      {
+        "name": "c#",
+        "value": 410
+      },
+      {
+        "name": "kotlin",
+        "value": 3
+      },
+      {
+        "name": "ruby",
+        "value": 67
+      },
+      {
+        "name": "rust",
+        "value": 2
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 29
+      },
+      {
+        "name": "django",
+        "value": 11
+      },
+      {
+        "name": "postgresql",
+        "value": 68
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 12
+      },
+      {
+        "name": "mysql",
+        "value": 133
+      },
+      {
+        "name": "mongodb",
+        "value": 25
+      },
+      {
+        "name": "jquery",
+        "value": 137
+      },
+      {
+        "name": "react",
+        "value": 126
+      },
+      {
+        "name": "flask",
+        "value": 6
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 3
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 232
+      }
+    ]
+  },
+  "VT": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 3
+      },
+      {
+        "name": "python",
+        "value": 2
+      },
+      {
+        "name": "c++",
+        "value": 2
+      },
+      {
+        "name": "c",
+        "value": 2
+      },
+      {
+        "name": "java",
+        "value": 8
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 0
+      },
+      {
+        "name": "c#",
+        "value": 5
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 1
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 3
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 1
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 1
+      }
+    ]
+  },
+  "WA": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 6
+      },
+      {
+        "name": "swift",
+        "value": 9
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 8
+      },
+      {
+        "name": "php",
+        "value": 28
+      },
+      {
+        "name": "python",
+        "value": 73
+      },
+      {
+        "name": "c++",
+        "value": 105
+      },
+      {
+        "name": "c",
+        "value": 63
+      },
+      {
+        "name": "java",
+        "value": 250
+      },
+      {
+        "name": "typescript",
+        "value": 20
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 5
+      },
+      {
+        "name": "javascript",
+        "value": 157
+      },
+      {
+        "name": "c#",
+        "value": 183
+      },
+      {
+        "name": "kotlin",
+        "value": 2
+      },
+      {
+        "name": "ruby",
+        "value": 28
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 2
+      },
+      {
+        "name": "django",
+        "value": 4
+      },
+      {
+        "name": "postgresql",
+        "value": 14
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 18
+      },
+      {
+        "name": "mysql",
+        "value": 17
+      },
+      {
+        "name": "mongodb",
+        "value": 21
+      },
+      {
+        "name": "jquery",
+        "value": 26
+      },
+      {
+        "name": "react",
+        "value": 75
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 1
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 28
+      }
+    ]
+  },
+  "WI": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 3
+      },
+      {
+        "name": "swift",
+        "value": 1
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 8
+      },
+      {
+        "name": "php",
+        "value": 18
+      },
+      {
+        "name": "python",
+        "value": 17
+      },
+      {
+        "name": "c++",
+        "value": 32
+      },
+      {
+        "name": "c",
+        "value": 13
+      },
+      {
+        "name": "java",
+        "value": 168
+      },
+      {
+        "name": "typescript",
+        "value": 7
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 76
+      },
+      {
+        "name": "c#",
+        "value": 64
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 3
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 3
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 4
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 5
+      },
+      {
+        "name": "mysql",
+        "value": 8
+      },
+      {
+        "name": "mongodb",
+        "value": 2
+      },
+      {
+        "name": "jquery",
+        "value": 23
+      },
+      {
+        "name": "react",
+        "value": 13
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 71
+      }
+    ]
+  },
+  "WV": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 3
+      },
+      {
+        "name": "python",
+        "value": 6
+      },
+      {
+        "name": "c++",
+        "value": 7
+      },
+      {
+        "name": "c",
+        "value": 11
+      },
+      {
+        "name": "java",
+        "value": 20
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 11
+      },
+      {
+        "name": "c#",
+        "value": 8
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 4
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 9
+      },
+      {
+        "name": "mongodb",
+        "value": 3
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 0
+      }
+    ]
+  },
+  "WY": {
+    "languages": [
+      {
+        "name": "objective-c",
+        "value": 0
+      },
+      {
+        "name": "swift",
+        "value": 0
+      },
+      {
+        "name": "haskell",
+        "value": 0
+      },
+      {
+        "name": "scala",
+        "value": 0
+      },
+      {
+        "name": "php",
+        "value": 1
+      },
+      {
+        "name": "python",
+        "value": 0
+      },
+      {
+        "name": "c++",
+        "value": 0
+      },
+      {
+        "name": "c",
+        "value": 0
+      },
+      {
+        "name": "java",
+        "value": 1
+      },
+      {
+        "name": "typescript",
+        "value": 0
+      },
+      {
+        "name": "ocaml",
+        "value": 0
+      },
+      {
+        "name": "golang",
+        "value": 0
+      },
+      {
+        "name": "javascript",
+        "value": 0
+      },
+      {
+        "name": "c#",
+        "value": 1
+      },
+      {
+        "name": "kotlin",
+        "value": 0
+      },
+      {
+        "name": "ruby",
+        "value": 1
+      },
+      {
+        "name": "rust",
+        "value": 0
+      },
+      {
+        "name": "f#",
+        "value": 0
+      },
+      {
+        "name": "elixir",
+        "value": 0
+      }
+    ],
+    "technologies": [
+      {
+        "name": "vue",
+        "value": 0
+      },
+      {
+        "name": "django",
+        "value": 0
+      },
+      {
+        "name": "postgresql",
+        "value": 0
+      },
+      {
+        "name": "elm",
+        "value": 0
+      },
+      {
+        "name": "express",
+        "value": 0
+      },
+      {
+        "name": "mysql",
+        "value": 1
+      },
+      {
+        "name": "mongodb",
+        "value": 0
+      },
+      {
+        "name": "jquery",
+        "value": 1
+      },
+      {
+        "name": "react",
+        "value": 0
+      },
+      {
+        "name": "flask",
+        "value": 0
+      },
+      {
+        "name": "reasonml",
+        "value": 0
+      },
+      {
+        "name": "laravel",
+        "value": 0
+      },
+      {
+        "name": "phoenix",
+        "value": 0
+      },
+      {
+        "name": "angular",
+        "value": 0
+      }
+    ]
+  }
+}
