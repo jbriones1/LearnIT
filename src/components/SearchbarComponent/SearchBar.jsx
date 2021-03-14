@@ -3,6 +3,7 @@ import { Input, Center } from '@chakra-ui/react';
 import statesInfo from '../../data/states.json';
 import citiesInfo from '../../data/cities.json';
 
+
 const cities = Object.keys(citiesInfo);
 
 const states = Object.keys(statesInfo).map((state) => state.toLowerCase());
@@ -21,9 +22,9 @@ const getSuggestions = (value) => {
   });
 
   if (suggestions.length < 5) {
-    return suggestions;
+    return suggestions.map(str => str.toUpperCase());
   } else {
-    return suggestions.slice(0, 5);
+    return suggestions.slice(0, 5).map(str => str.toUpperCase());
   }
 };
 
@@ -35,13 +36,18 @@ const SearchBar = ({ handleChange }) => {
       <Input
         placeholder='Enter location'
         size='lg'
+        color="white"
+        fontSize="xl"
         onChange={(e) => {
           setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
           handleChange(e);
         }}
       />
       {suggestions.length !== 0 &&
-        suggestions.map((suggestion) => <Center>{suggestion}</Center>)}
+        suggestions.map((suggestion) => <Center my="2"
+                                                color="white"
+                                                fontWeight="light"
+                                                fontSize="xl">{suggestion}</Center>)}
     </>
   );
 };
