@@ -20,7 +20,7 @@ const FrontPage = () => {
   const [location, setLocation] = useState('');
 
   // to handle location change
-  const handleChange = (e) => setLocation(e.target.value);
+  const handleChange = (e) => setLocation(e.target.value.trim().toLowerCase());
 
   return (
     <Box m='auto' p='10' w='70%'>
