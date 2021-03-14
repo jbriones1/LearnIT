@@ -13,7 +13,6 @@ const FrontPage = () => {
     'javascript',
     'haskell',
     'java',
-    'objective-c',
     'scala',
     'golang',
     'kotlin',
