@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/HackTheBreak/static/css/main.de454a76.chunk.css",
-    "main.js": "/HackTheBreak/static/js/main.49e3b506.chunk.js",
-    "main.js.map": "/HackTheBreak/static/js/main.49e3b506.chunk.js.map",
-    "runtime-main.js": "/HackTheBreak/static/js/runtime-main.2331ab37.js",
-    "runtime-main.js.map": "/HackTheBreak/static/js/runtime-main.2331ab37.js.map",
-    "static/js/2.72970627.chunk.js": "/HackTheBreak/static/js/2.72970627.chunk.js",
-    "static/js/2.72970627.chunk.js.map": "/HackTheBreak/static/js/2.72970627.chunk.js.map",
-    "static/js/3.d5d9e411.chunk.js": "/HackTheBreak/static/js/3.d5d9e411.chunk.js",
-    "static/js/3.d5d9e411.chunk.js.map": "/HackTheBreak/static/js/3.d5d9e411.chunk.js.map",
-    "index.html": "/HackTheBreak/index.html",
-    "static/css/main.de454a76.chunk.css.map": "/HackTheBreak/static/css/main.de454a76.chunk.css.map",
-    "static/js/2.72970627.chunk.js.LICENSE.txt": "/HackTheBreak/static/js/2.72970627.chunk.js.LICENSE.txt"
+    "main.css": "/LearnIT/static/css/main.de454a76.chunk.css",
+    "main.js": "/LearnIT/static/js/main.49e3b506.chunk.js",
+    "main.js.map": "/LearnIT/static/js/main.49e3b506.chunk.js.map",
+    "runtime-main.js": "/LearnIT/static/js/runtime-main.292fe353.js",
+    "runtime-main.js.map": "/LearnIT/static/js/runtime-main.292fe353.js.map",
+    "static/js/2.72970627.chunk.js": "/LearnIT/static/js/2.72970627.chunk.js",
+    "static/js/2.72970627.chunk.js.map": "/LearnIT/static/js/2.72970627.chunk.js.map",
+    "static/js/3.d5d9e411.chunk.js": "/LearnIT/static/js/3.d5d9e411.chunk.js",
+    "static/js/3.d5d9e411.chunk.js.map": "/LearnIT/static/js/3.d5d9e411.chunk.js.map",
+    "index.html": "/LearnIT/index.html",
+    "static/css/main.de454a76.chunk.css.map": "/LearnIT/static/css/main.de454a76.chunk.css.map",
+    "static/js/2.72970627.chunk.js.LICENSE.txt": "/LearnIT/static/js/2.72970627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2331ab37.js",
+    "static/js/runtime-main.292fe353.js",
     "static/js/2.72970627.chunk.js",
     "static/css/main.de454a76.chunk.css",
     "static/js/main.49e3b506.chunk.js"
