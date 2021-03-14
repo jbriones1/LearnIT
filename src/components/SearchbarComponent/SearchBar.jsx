@@ -4,6 +4,7 @@ import statesInfo from '../../data/states.json';
 import citiesInfo from '../../data/cities.json';
 import { ArrowForwardIcon } from '@chakra-ui/icons'
 
+
 const cities = Object.keys(citiesInfo);
 
 const states = Object.keys(statesInfo).map((state) => state.toLowerCase());
@@ -11,35 +12,36 @@ const states = Object.keys(statesInfo).map((state) => state.toLowerCase());
 const locations = [...cities, ...states];
 
 const getSuggestions = (value) => {
-  if (value.length == 0) {
+  if (value.length === 0) {
     return [];
   }
 
+  const sanitized = value.replace(/(\s|\t)*,(\s|\t)*/g, ',');
+
   const suggestions = locations.filter((location) => {
     return (
-      value === location.substring(0, value.length) || location.includes(value)
+      sanitized === location.substring(0, value.length) ||
+      location.includes(sanitized)
     );
   });
 
   if (suggestions.length < 5) {
-    return suggestions.map(str => str.toUpperCase());
+    return suggestions.map((str) => str.toUpperCase());
   } else {
-    return suggestions.slice(0, 5).map(str => str.toUpperCase());
+    return suggestions.slice(0, 5).map((str) => str.toUpperCase());
   }
 };
 
-const SearchBar = ({ handleChange, submitSearch }) => {
+const SearchBar = ({ handleChange, submitSearch, location }) => {
   const [suggestions, setSuggestions] = useState([]);
 
-  const [searchLocation, setSearchLocation] = useState('');
-
   const onSubmit = (e) => {
-    if (!searchLocation || !locations.includes(searchLocation)) {
+    if (!location || !locations.includes(location)) {
       alert("Location not found");
       return;
     }
 
-    submitSearch(searchLocation);
+    submitSearch(location);
   }
 
   return (
@@ -50,16 +52,14 @@ const SearchBar = ({ handleChange, submitSearch }) => {
         size='lg'
         color="white"
         fontSize="xl"
-        text={searchLocation}
         onChange={(e) => {
           setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
-          setSearchLocation(e.target.value.trim());
-          console.log(searchLocation);
           handleChange(e);
         }}
       />
       {suggestions.length !== 0 &&
         suggestions.map((suggestion) => <Center my="2"
+          key={suggestion}
           color="white"
           fontWeight="light"
           fontSize="xl">{suggestion}</Center>)}

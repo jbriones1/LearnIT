@@ -7,9 +7,10 @@ import {
 import FrontPage from './components/FrontpageComponent/FrontpageComponent';
 
 function App() {
+
   return (
     <ChakraProvider>
-	  <FrontPage />
+      <FrontPage />
     </ChakraProvider>
   );
 }

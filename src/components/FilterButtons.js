@@ -1,8 +1,9 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import { Button, SimpleGrid } from "@chakra-ui/react";
 
+
 const FilterButtons = props => {
-  const {colNum} = props;
+  const {colNum, handleClick, techFilter} = props;
 
   const languages = [
     {name: 'Rust', icon: 'devicon-rust-plain'},
@@ -26,19 +27,26 @@ const FilterButtons = props => {
     {name: 'C', icon: 'devicon-c-plain'}
   ];
 
-  const buttonList = languages.map((language, index) => {
-    return (
-      <Button 
-        key={index} 
-        bg='#1B213B' 
-        color='#A0AEC0' 
-        leftIcon={<i className={language.icon} />}
-        width='120px'
-        >
-        {language.name}
-      </Button>
-    )
-  });
+  const renderButtons = () => {
+    console.log("Render")
+    return languages.map((language, index) => {
+      return (
+        <Button 
+          key={index}
+          bg={techFilter.includes(language.name.toLowerCase()) ? '#1B213B'  : '#FFF'}
+          color='#A0AEC0'
+          leftIcon={<i className={language.icon} />}
+          width='120px'
+          onClick={() => handleClick(language.name)}
+          >
+          {language.name}
+        </Button>
+      )
+    });
+  }
+
+  let buttonList = renderButtons();
+
 
   return (
     <SimpleGrid columns={colNum} spacingX="10px" spacingY="10px">
