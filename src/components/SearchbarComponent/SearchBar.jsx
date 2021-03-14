@@ -56,8 +56,16 @@ const SearchBar = ({ handleChange, submitSearch, location }) => {
           color='white'
           fontSize='xl'
           onChange={(e) => {
-            setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
-            handleChange(e);
+            const newSuggestions = getSuggestions(
+              e.target.value.trim().toLowerCase()
+            );
+            setSuggestions(newSuggestions);
+
+            if (newSuggestions.length == 1) {
+              handleChange({ target: { value: newSuggestions[0] } });
+            } else {
+              handleChange(e);
+            }
           }}
         />
       </InputGroup>
