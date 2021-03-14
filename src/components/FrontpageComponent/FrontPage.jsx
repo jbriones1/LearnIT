@@ -85,7 +85,7 @@ const FrontPage = () => {
               color='white'
               textAlign='center'
             >
-              Popular <chakra.span color='teal.300'>Languages</chakra.span>
+              Learn<chakra.span color='teal.300'>IT</chakra.span>
             </Heading>
 
             <Text color='white' align='center' fontSize='lg' mb='10'>
