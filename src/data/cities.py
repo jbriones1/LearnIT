@@ -5,11 +5,27 @@ import json
 import re
 
 
-
 if __name__ == "__main__":
-    languages = {"java", "javascript", "golang", "python", "c++", "c", "c#",
-                 "typescript", "php", "kotlin", "rust", "scala", "ocaml",
-                 "haskell", "elixir", "f#", "swift", "objective-c", "ruby"}
+    languages = {
+        "java",
+        "javascript",
+        "golang",
+        "python",
+        "c++",
+        "c",
+        "c#",
+        "typescript",
+        "php",
+        "kotlin",
+        "rust",
+        "scala",
+        "ocaml",
+        "haskell",
+        "elixir",
+        "f#",
+        "swift",
+        "ruby",
+    }
 
     front_end = {"react", "angular", "vue", "jquery", "reasonml", "elm"}
 
@@ -51,18 +67,20 @@ if __name__ == "__main__":
             if technology in frequencies[location]["technologies"]:
                 frequencies[location]["technologies"][technology] += 1
 
-
     result = {
         location: {
             "languages": [
                 {"name": language, "value": value}
-                for language, value in frequencies[location]["languages"].items()
+                for language, value in frequencies[location][
+                    "languages"
+                ].items()
             ],
             "technologies": [
                 {"name": technology, "value": value}
-                for technology, value in
-                frequencies[location]["technologies"].items()
-            ]
+                for technology, value in frequencies[location][
+                    "technologies"
+                ].items()
+            ],
         }
         for location in frequencies
     }
