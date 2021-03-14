@@ -1,5 +1,8 @@
 import React from 'react';
 import Chart from "react-apexcharts";
+import { 
+  Text,
+ } from '@chakra-ui/react'
 
 const states = require('../data/states.json');
 const cities = require('../data/cities.json');
@@ -123,17 +126,30 @@ const ApexChart = props => {
   };
 
   return (<div>
+    <Text
+      color="white"
+      align="left"
+      fontSize="lg"
+      mb="5"
+      >Top 10 Programming Languages</Text>
     <Chart
       options={languagesGraph.options}
       series={languagesGraph.series}
       type={typeChart}
-      width="500"
+      width="700"
     />
+    <Text
+      color="white"
+      align="left"
+      fontSize="lg"
+      mb="5"
+      mt="5"
+      >Top 10 Frameworks & Libraries</Text>
     <Chart
       options={technologyGraph.options}
       series={technologyGraph.series}
       type={typeChart}
-      width="500"
+      width="700"
     />
   </div>
   )
