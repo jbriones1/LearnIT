@@ -71,11 +71,15 @@ if __name__ == "__main__":
 
     databases = {"mysql", "postgresql", "mongodb"}
 
-    frequencies = {state: {"languages": {language: 0 for language in languages},
-                   "front end": {framework: 0 for framework in front_end},
-                   "back end": {framework: 0 for framework in back_end},
-                   "databases": {database: 0 for database in databases}}
-                   for state in states}
+    technologies = front_end | back_end | databases
+
+    frequencies = {
+        state: {
+            "languages": {language: 0 for language in languages},
+            "technologies": {technology: 0 for technology in technologies}
+        }
+        for state in states
+    }
 
     with open("./data.json") as f:
         jobs = json.load(f)
@@ -95,15 +99,24 @@ if __name__ == "__main__":
             if technology in frequencies[state]["languages"]:
                 frequencies[state]["languages"][technology] += 1
 
-            if technology in frequencies[state]["front end"]:
-                frequencies[state]["front end"][technology] += 1
+            if technology in frequencies[state]["technologies"]:
+                frequencies[state]["technologies"][technology] += 1
 
-            if technology in frequencies[state]["back end"]:
-                frequencies[state]["back end"][technology] += 1
 
-            if technology in frequencies[state]["databases"]:
-                frequencies[state]["databases"][technology] += 1
+    result = {
+        state: {
+            "languages": [
+                {"name": language, "value": value}
+                for language, value in frequencies[state]["languages"].items()
+            ],
+            "technologies": [
+                {"name": technology, "value": value}
+                for technology, value in frequencies[state]["technologies"].items()
+            ]
+        }
+        for state in frequencies
+    }
 
-    print(json.dumps(frequencies, indent=2, sort_keys=True))
+    print(json.dumps(result, indent=2, sort_keys=True))
     f.close()
 

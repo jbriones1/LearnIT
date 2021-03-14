@@ -17,6 +17,8 @@ if __name__ == "__main__":
 
     databases = {"mysql", "postgresql", "mongodb"}
 
+    technologies = front_end | back_end | databases
+
     frequencies = {}
 
     with open("./data.json") as f:
@@ -35,9 +37,7 @@ if __name__ == "__main__":
         if location not in frequencies:
             frequencies[location] = {
                 "languages": {language: 0 for language in languages},
-                "front end": {framework: 0 for framework in front_end},
-                "back end": {framework: 0 for framework in back_end},
-                "databases": {database: 0 for database in databases}
+                "technologies": {technology: 0 for technology in technologies},
             }
 
         words = re.sub("[^\w(++|#|\-c?)]", " ", job_description).split()
@@ -48,15 +48,25 @@ if __name__ == "__main__":
             if technology in frequencies[location]["languages"]:
                 frequencies[location]["languages"][technology] += 1
 
-            if technology in frequencies[location]["front end"]:
-                frequencies[location]["front end"][technology] += 1
+            if technology in frequencies[location]["technologies"]:
+                frequencies[location]["technologies"][technology] += 1
 
-            if technology in frequencies[location]["back end"]:
-                frequencies[location]["back end"][technology] += 1
 
-            if technology in frequencies[location]["databases"]:
-                frequencies[location]["databases"][technology] += 1
+    result = {
+        location: {
+            "languages": [
+                {"name": language, "value": value}
+                for language, value in frequencies[location]["languages"].items()
+            ],
+            "technologies": [
+                {"name": technology, "value": value}
+                for technology, value in
+                frequencies[location]["technologies"].items()
+            ]
+        }
+        for location in frequencies
+    }
 
-    print(json.dumps(frequencies, indent=2, sort_keys=True))
+    print(json.dumps(result, indent=2, sort_keys=True))
     f.close()
 
