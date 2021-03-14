@@ -6,9 +6,11 @@ const cities = require('../data/cities.json');
 
 const ApexChart = props => {
   const {
-    data,
+    location,
     typeChart
   } = props;
+
+
 
   const state = '' || 'FL'
   const languages = states[state].languages.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
@@ -55,9 +57,11 @@ const ApexChart = props => {
         enabled: false
       },
       xaxis: {
+        seriesName: 'name',
         type: 'category'
       },
       yaxis: {
+        seriesName: 'value',
         title: {
           text: 'Job postings',
           style: {
@@ -109,9 +113,11 @@ const ApexChart = props => {
         enabled: false
       },
       xaxis: {
+        seriesName: 'name',
         type: 'category'
       },
       yaxis: {
+        seriesName: 'value',
         title: {
           text: 'Job postings',
           style: {
@@ -123,12 +129,14 @@ const ApexChart = props => {
   };
 
   return (<div>
-    <Chart
-      options={languagesGraph.options}
-      series={languagesGraph.series}
-      type={typeChart}
-      width="500"
-    />
+    {/* {languages.length > 0 ? (
+      <Chart
+        options={languagesGraph.options}
+        series={languagesGraph.series}
+        type={typeChart}
+        width="500"
+      />
+    )} */}
     <Chart
       options={technologyGraph.options}
       series={technologyGraph.series}
