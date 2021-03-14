@@ -43,19 +43,7 @@ const FrontPage = () => {
                           mb="10"
                           >Find popular programming languages and frameworks near you</Text>
                     <SearchBar handleChange={handleChange} />
-                    <Stack  my="10"
-                            align="center">
-                        <Button backgroundColor="teal.100"
-                                color="black"
-                                w="250px"
-                                h="50px"
-                                borderRadius="15px"
-                                p="7"
-                                fontSize="xl"
-                                onClick={onSubmit}
-                                >Get Started <ArrowForwardIcon /></Button>
 
-                    </Stack>
                     <FilterButtons colNum={5} />
                 </Box>
             </Center>
@@ -65,7 +53,3 @@ const FrontPage = () => {
 }
 
 export default FrontPage;
-
-const onSubmit = () => {
-  
-}

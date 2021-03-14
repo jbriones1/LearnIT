@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Input, Center } from '@chakra-ui/react';
+import { Input, Center, Stack, Button } from '@chakra-ui/react';
 import statesInfo from '../../data/states.json';
 import citiesInfo from '../../data/cities.json';
-
+import { ArrowForwardIcon } from '@chakra-ui/icons'
 
 const cities = Object.keys(citiesInfo);
 
@@ -49,6 +49,18 @@ const SearchBar = ({ handleChange }) => {
                                                 color="white"
                                                 fontWeight="light"
                                                 fontSize="xl">{suggestion}</Center>)}
+                                                                    <Stack  my="10"
+                            align="center">
+                        <Button backgroundColor="teal.100"
+                                color="black"
+                                w="250px"
+                                h="50px"
+                                borderRadius="15px"
+                                p="7"
+                                fontSize="xl"
+                                >Get Started <ArrowForwardIcon /></Button>
+
+                    </Stack>
     </>
   );
 };
