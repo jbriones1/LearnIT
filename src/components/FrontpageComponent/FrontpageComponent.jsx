@@ -59,7 +59,7 @@ const FrontPage = ({ filterState }) => {
             mb="10"
           >Find popular programming languages and frameworks near you</Text>
           <SearchBar handleChange={handleChange} submitSearch={submitSearch} location={location} />
-          <FilterButtons colNum={5} handleClick={handleClick} techFilter={techFilter}/>
+          <FilterButtons handleClick={handleClick} techFilter={techFilter}/>
         </Box>
       </Center>
     </Box>
