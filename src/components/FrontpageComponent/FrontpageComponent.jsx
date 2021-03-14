@@ -31,8 +31,8 @@ const FrontPage = () => {
                     <Image m="auto"
                            mb="20"
                            borderRadius="full"
-                           src="https://dummyimage.com/200x200/#b4b9c/fff"
-                           alt=""></Image>
+                           src="./../images/angle-logo.png"
+                           alt="Populang"></Image>
                     <Heading fontSize="4rem"
                              m="auto"
                              mb="5"
