@@ -212,7 +212,7 @@ const ApexChart = ({ location, techFilter }) => {
 
   return (
     <div>
-      <Text color='white' align='center' fontSize='xl'>
+      <Text color='teal.200' align='center' fontSize='xl'>
         Statistics for {location}
       </Text>
       <Text color='white' align='center' fontSize='lg' mb='5'>
