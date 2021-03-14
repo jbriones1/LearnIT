@@ -12,11 +12,11 @@ import { ArrowForwardIcon } from '@chakra-ui/icons'
 import { useState } from 'react'
 
 const FrontPage = () => {
-    // react hook
-    const [location, setLocation] = useState('');
+  // react hook
+  const [location, setLocation] = useState('');
 
-    // to handle location change
-    const handleChange = (e) => setLocation(e.target.value)
+  // to handle location change
+  const handleChange = (e) => setLocation(e.target.value);
 
     return (
 

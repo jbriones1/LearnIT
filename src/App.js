@@ -9,11 +9,10 @@ import {
   Grid,
   theme,
 } from '@chakra-ui/react';
-import ApexChart from './components/ApexChart'
-
+import ApexChart from './components/ApexChart';
 
 // customized components
-import FrontPage from './components/FrontpageComponent/FrontpageComponent'
+import FrontPage from './components/FrontpageComponent/FrontpageComponent';
 
 function App() {
   return (
