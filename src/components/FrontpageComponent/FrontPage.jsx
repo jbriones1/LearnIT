@@ -76,7 +76,7 @@ const FrontPage = () => {
             <Image
               m='auto'
               boxSize='100px'
-              mb={width > 400 ? '10' : '0'}
+              // mb={width > 400 ? '0' : '0'}
               borderRadius='full'
               src={Logo}
               alt=''

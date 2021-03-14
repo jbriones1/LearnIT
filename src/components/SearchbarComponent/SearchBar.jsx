@@ -60,19 +60,19 @@ const SearchBar = ({ handleChange, submitSearch, location }) => {
             handleChange(e);
           }}
         />
-        {suggestions.length !== 0 &&
-          suggestions.map((suggestion) => (
-            <Center
-              my='2'
-              key={suggestion}
-              color='white'
-              fontWeight='light'
-              fontSize='xl'
-            >
-              {suggestion}
-            </Center>
-          ))}
       </InputGroup>
+      {suggestions.length !== 0 &&
+        suggestions.map((suggestion) => (
+          <Center
+            my='2'
+            key={suggestion}
+            color='white'
+            fontWeight='light'
+            fontSize='xl'
+          >
+            {suggestion}
+          </Center>
+        ))}
     </>
   );
 };
