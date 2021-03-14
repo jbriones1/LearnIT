@@ -76,11 +76,11 @@ const FrontPage = () => {
             <Image
               m='auto'
               boxSize='100px'
-              mb='10'
+              mb={width > 400 ? '10' : '0'}
               borderRadius='full'
               src={Logo}
               alt=''
-            ></Image>
+            />
             <Heading
               fontSize='4rem'
               m='auto'
