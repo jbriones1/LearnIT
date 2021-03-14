@@ -38,7 +38,7 @@ function App() {
           </VStack>
         </Grid>
       </Box> */}
-	  <FrontPage />
+      <FrontPage />
     </ChakraProvider>
   );
 }
