@@ -13,6 +13,7 @@ import {
 import { ArrowForwardIcon } from '@chakra-ui/icons';
 import { useState } from 'react';
 import FilterButtons from './../FilterButtons';
+import Logo from '../../images/angle.png';
 
 const FrontPage = () => {
   // react hook
@@ -25,13 +26,7 @@ const FrontPage = () => {
     <Box m='auto' p='10' w='70%'>
       <Center>
         <Box>
-          <Image
-            m='auto'
-            mb='5'
-            borderRadius='full'
-            src='https://dummyimage.com/200x200/#b4b9c/fff'
-            alt=''
-          ></Image>
+          <Image boxSize='100px' m='auto' mb='5' src={Logo} alt=''></Image>
           <Heading fontSize='4rem' m='auto' textAlign='center' color='white'>
             Popular <chakra.span color='teal.300'>Languages</chakra.span>
           </Heading>
