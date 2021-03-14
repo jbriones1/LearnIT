@@ -1,42 +1,141 @@
 import React from 'react';
 import Chart from "react-apexcharts";
 
-const ApexChart = props => {
-  const { data, typeChart } = props;
+const states = require('../data/states.json');
+const cities = require('../data/cities.json');
 
-  // you need to change data field and categories
-  const barGraph = {
+const ApexChart = props => {
+  const {
+    data,
+    typeChart
+  } = props;
+
+  const state = '' || 'FL'
+  const languages = states[state].languages.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
+  const technologies = states[state].technologies.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
+
+  const languagesGraph = {
     series: [{
-      data: [400, 430, 448, 470, 540, 580, 690, 1100, 1200, 1380]
+      data: languages
     }],
     options: {
       chart: {
         type: 'bar',
-        height: 350
+        background: '#262D47'
       },
       plotOptions: {
         bar: {
-          horizontal: true,
+          horizontal: false,
         }
       },
+      theme: {
+        mode: 'dark',
+        palette: 'palette7',
+        monochrome: {
+          enabled: false,
+          color: '#262D47',
+          shadeTo: 'dark',
+          shadeIntensity: 0.65
+        },
+      },
+      fill: {
+        type: 'gradient',
+        gradient: {
+          shade: 'light',
+          gradientToColors: ['#FDD835'],
+          shadeIntensity: 1,
+          type: 'vertical',
+          opacityFrom: 1,
+          opacityTo: 1,
+          stops: [0, 100, 100, 100]
+        },
+      },
+      colors: ['#F44336', '#E91E63', '#9C27B0'],
       dataLabels: {
         enabled: false
       },
       xaxis: {
-        categories: ['South Korea', 'Canada', 'United Kingdom', 'Netherlands', 'Italy', 'France', 'Japan',
-          'United States', 'China', 'Germany'
-        ],
+        type: 'category'
+      },
+      yaxis: {
+        title: {
+          text: 'Job postings',
+          style: {
+            fontSize: '12px'
+          }
+        }
       }
     },
   };
 
-  return (
+  const technologyGraph = {
+    series: [{
+      data: technologies
+    }],
+    options: {
+      chart: {
+        type: 'bar',
+        background: '#262D47'
+      },
+      plotOptions: {
+        bar: {
+          horizontal: false,
+        }
+      },
+      theme: {
+        mode: 'dark',
+        palette: 'palette7',
+        monochrome: {
+          enabled: false,
+          color: '#262D47',
+          shadeTo: 'dark',
+          shadeIntensity: 0.65
+        },
+      },
+      fill: {
+        type: 'gradient',
+        gradient: {
+          shade: 'light',
+          gradientToColors: ['#FDD835'],
+          shadeIntensity: 1,
+          type: 'vertical',
+          opacityFrom: 1,
+          opacityTo: 1,
+          stops: [0, 100, 100, 100]
+        },
+      },
+      colors: ['#9C27B0'],
+      dataLabels: {
+        enabled: false
+      },
+      xaxis: {
+        type: 'category'
+      },
+      yaxis: {
+        title: {
+          text: 'Job postings',
+          style: {
+            fontSize: '12px'
+          }
+        }
+      }
+    },
+  };
+
+  return (<div>
     <Chart
-      options={barGraph.options}
-      series={barGraph.series}
+      options={languagesGraph.options}
+      series={languagesGraph.series}
       type={typeChart}
       width="500"
     />
+    <Chart
+      options={technologyGraph.options}
+      series={technologyGraph.series}
+      type={typeChart}
+      width="500"
+    />
+  </div>
   )
 }
 
