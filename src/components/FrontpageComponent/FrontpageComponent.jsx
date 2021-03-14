@@ -52,7 +52,8 @@ const FrontPage = ({ filterState }) => {
           <Heading fontSize="4rem"
             m="auto"
             mb="5"
-            color="white">Popular <chakra.span color="teal.300">Languages</chakra.span></Heading>
+            color="white"
+            align="center">Popular <chakra.span color="teal.300">Languages</chakra.span></Heading>
           <Text color="white"
             align="center"
             fontSize="lg"
