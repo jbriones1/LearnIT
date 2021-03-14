@@ -1,4 +1,4 @@
-import { Button, Text, SimpleGrid } from '@chakra-ui/react';
+import { Button, Text, SimpleGrid, Center } from '@chakra-ui/react';
 
 const FilterButtons = (props) => {
   const { handleClick, techFilter } = props;
@@ -8,7 +8,6 @@ const FilterButtons = (props) => {
     { name: 'Javascript', icon: 'devicon-javascript-plain c' },
     { name: 'Haskell', icon: 'devicon-haskell-plain' },
     { name: 'Java', icon: 'devicon-java-plain' },
-    { name: 'Objective-c', icon: 'devicon-objectivec-plain' },
     { name: 'Scala', icon: 'devicon-scala-plain' },
     { name: 'Golang', icon: 'devicon-go-plain' },
     { name: 'Kotlin', icon: 'devicon-kotlin-plain' },
@@ -38,7 +37,7 @@ const FilterButtons = (props) => {
           }
           color='#A0AEC0'
           leftIcon={<i className={language.icon} />}
-          width='120px'
+          width='110px'
           onClick={() => handleClick(language.name)}
         >
           {language.name}
@@ -54,13 +53,15 @@ const FilterButtons = (props) => {
       <Text color='white' align='left' fontSize='lg' mb='5'>
         Filter the languages:
       </Text>
-      <SimpleGrid
-        columns={[2, 3, 4, 5]}
-        spacingX={['10px', '20px']}
-        spacingY='10px'
-      >
-        {buttonList}
-      </SimpleGrid>
+      <Center>
+        <SimpleGrid
+          columns={[2, 3, 4, 5]}
+          spacingX={['10px', '20px']}
+          spacingY='10px'
+        >
+          {buttonList}
+        </SimpleGrid>
+      </Center>
     </>
   );
 };
