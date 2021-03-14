@@ -1,6 +1,9 @@
+import React from 'react'
+import SearchBar from './../SearchbarComponent/SearchBar'
 import { Box, Image } from '@chakra-ui/react'
+import { useState } from 'react'
 
-const Frontpage = () => {
+const FrontPage = () => {
     // react hook
     const [location, setLocation] = useState('');
 
@@ -10,6 +13,9 @@ const Frontpage = () => {
     return (
         <Box>
             <Image></Image>
+            <SearchBar handleChange={handleChange} />
         </Box>
     );
 }
+
+export default FrontPage;
