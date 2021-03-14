@@ -66,10 +66,7 @@ const ResultPage = props => {
         onClick={handleScrollTop}
         >Scroll to Top
     </Text></Box>
-        
-        
         </>
-
     );
 }
 
