@@ -1,8 +1,15 @@
 import React, { useState } from 'react';
-import { Input, Center, Stack, Button } from '@chakra-ui/react';
+import {
+  Input,
+  Center,
+  Stack,
+  Button,
+  InputGroup,
+  InputLeftElement,
+} from '@chakra-ui/react';
 import statesInfo from '../../data/states.json';
 import citiesInfo from '../../data/cities.json';
-import { ArrowForwardIcon } from '@chakra-ui/icons';
+import { ArrowForwardIcon, Search2Icon } from '@chakra-ui/icons';
 
 const cities = Object.keys(citiesInfo);
 
@@ -36,29 +43,36 @@ const SearchBar = ({ handleChange, submitSearch, location }) => {
 
   return (
     <>
-      <Input
-        id='searchBar'
-        placeholder='Enter location'
-        size='lg'
-        color='white'
-        fontSize='xl'
-        onChange={(e) => {
-          setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
-          handleChange(e);
-        }}
-      />
-      {suggestions.length !== 0 &&
-        suggestions.map((suggestion) => (
-          <Center
-            my='2'
-            key={suggestion}
-            color='white'
-            fontWeight='light'
-            fontSize='xl'
-          >
-            {suggestion}
-          </Center>
-        ))}
+      <InputGroup>
+        <InputLeftElement
+          pointerEvents='none'
+          children={<Search2Icon color='teal.200' />}
+          mt='1'
+        />
+        <Input
+          id='searchBar'
+          placeholder='Enter location'
+          size='lg'
+          color='white'
+          fontSize='xl'
+          onChange={(e) => {
+            setSuggestions(getSuggestions(e.target.value.trim().toLowerCase()));
+            handleChange(e);
+          }}
+        />
+        {suggestions.length !== 0 &&
+          suggestions.map((suggestion) => (
+            <Center
+              my='2'
+              key={suggestion}
+              color='white'
+              fontWeight='light'
+              fontSize='xl'
+            >
+              {suggestion}
+            </Center>
+          ))}
+      </InputGroup>
     </>
   );
 };
