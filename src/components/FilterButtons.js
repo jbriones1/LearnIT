@@ -28,7 +28,7 @@ const FilterButtons = props => {
   ];
 
   const renderButtons = () => {
-    console.log("Render")
+    console.log('Render');
     return languages.map((language, index) => {
       return (
         <Button
@@ -41,12 +41,11 @@ const FilterButtons = props => {
         >
           {language.name}
         </Button>
-      )
+      );
     });
-  }
+  };
 
-  let buttonList = renderButtons();
-
+  const buttonList = renderButtons();
 
   return (
     <>
@@ -61,6 +60,6 @@ const FilterButtons = props => {
     </SimpleGrid>
     </>
   );
-}
+};
 
 export default FilterButtons;
