@@ -1,8 +1,6 @@
-import { Button, Text, SimpleGrid  } from "@chakra-ui/react";
+import { Button, Text, SimpleGrid } from '@chakra-ui/react';
 
-
-
-const FilterButtons = props => {
+const FilterButtons = (props) => {
   const { handleClick, techFilter } = props;
 
   const languages = [
@@ -24,7 +22,7 @@ const FilterButtons = props => {
     { name: 'Typescript', icon: 'devicon-typescript-plain' },
     { name: 'Elixir', icon: 'devicon-elixir-plain' },
     { name: 'Swift', icon: 'devicon-swift-plain' },
-    { name: 'C', icon: 'devicon-c-plain' }
+    { name: 'C', icon: 'devicon-c-plain' },
   ];
 
   const renderButtons = () => {
@@ -33,7 +31,11 @@ const FilterButtons = props => {
       return (
         <Button
           key={index}
-          bg={techFilter.includes(language.name.toLowerCase()) ? '#1B213B' : '#FFF'}
+          bg={
+            techFilter.includes(language.name.toLowerCase())
+              ? '#1B213B'
+              : '#FFF'
+          }
           color='#A0AEC0'
           leftIcon={<i className={language.icon} />}
           width='120px'
@@ -49,15 +51,16 @@ const FilterButtons = props => {
 
   return (
     <>
-    <Text
-      color="white"
-      align="left"
-      fontSize="lg"
-      mb="5"
-      >Filter the languages:</Text>
-    <SimpleGrid columns={[2, 3, 4, 5]} spacingX={['10px', '80px', '150px']} spacingY="10px">
-      {buttonList}
-    </SimpleGrid>
+      <Text color='white' align='left' fontSize='lg' mb='5'>
+        Filter the languages:
+      </Text>
+      <SimpleGrid
+        columns={[2, 3, 4, 5]}
+        spacingX={['10px', '20px']}
+        spacingY='10px'
+      >
+        {buttonList}
+      </SimpleGrid>
     </>
   );
 };
