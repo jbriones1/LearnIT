@@ -52,6 +52,7 @@ const FrontPage = () => {
                                 borderRadius="15px"
                                 p="7"
                                 fontSize="xl"
+                                onClick={onSubmit}
                                 >Get Started <ArrowForwardIcon /></Button>
 
                     </Stack>
@@ -64,3 +65,7 @@ const FrontPage = () => {
 }
 
 export default FrontPage;
+
+const onSubmit = () => {
+  
+}

@@ -28,7 +28,13 @@ const FilterButtons = props => {
 
   const buttonList = languages.map((language, index) => {
     return (
-      <Button key={index} bg='#1B213B' color='#A0AEC0' leftIcon={<i class={language.icon}/>}>
+      <Button 
+        key={index} 
+        bg='#1B213B' 
+        color='#A0AEC0' 
+        leftIcon={<i class={language.icon} />}
+        width='120px'
+        >
         {language.name}
       </Button>
     )

@@ -34,6 +34,7 @@ const SearchBar = ({ handleChange }) => {
   return (
     <>
       <Input
+        id="searchBar"
         placeholder='Enter location'
         size='lg'
         color="white"
