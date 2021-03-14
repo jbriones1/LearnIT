@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HackTheBreak/static/css/main.de454a76.chunk.css",
+    "main.js": "/HackTheBreak/static/js/main.42830207.chunk.js",
+    "main.js.map": "/HackTheBreak/static/js/main.42830207.chunk.js.map",
+    "runtime-main.js": "/HackTheBreak/static/js/runtime-main.2331ab37.js",
+    "runtime-main.js.map": "/HackTheBreak/static/js/runtime-main.2331ab37.js.map",
+    "static/js/2.72970627.chunk.js": "/HackTheBreak/static/js/2.72970627.chunk.js",
+    "static/js/2.72970627.chunk.js.map": "/HackTheBreak/static/js/2.72970627.chunk.js.map",
+    "static/js/3.d5d9e411.chunk.js": "/HackTheBreak/static/js/3.d5d9e411.chunk.js",
+    "static/js/3.d5d9e411.chunk.js.map": "/HackTheBreak/static/js/3.d5d9e411.chunk.js.map",
+    "index.html": "/HackTheBreak/index.html",
+    "static/css/main.de454a76.chunk.css.map": "/HackTheBreak/static/css/main.de454a76.chunk.css.map",
+    "static/js/2.72970627.chunk.js.LICENSE.txt": "/HackTheBreak/static/js/2.72970627.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2331ab37.js",
+    "static/js/2.72970627.chunk.js",
+    "static/css/main.de454a76.chunk.css",
+    "static/js/main.42830207.chunk.js"
+  ]
+}
