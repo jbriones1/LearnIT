@@ -25,7 +25,6 @@ const FilterButtons = (props) => {
   ];
 
   const renderButtons = () => {
-    console.log('Render');
     return languages.map((language, index) => {
       return (
         <Button
