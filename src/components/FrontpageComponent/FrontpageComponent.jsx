@@ -10,6 +10,7 @@ import { Box,
          Text } from '@chakra-ui/react'
 import { ArrowForwardIcon } from '@chakra-ui/icons'
 import { useState } from 'react'
+import FilterButtons from './../FilterButtons';
 
 const FrontPage = () => {
   // react hook
@@ -54,6 +55,7 @@ const FrontPage = () => {
                                 >Get Started <ArrowForwardIcon /></Button>
 
                     </Stack>
+                    <FilterButtons colNum={5} />
                 </Box>
             </Center>
         </Box>
