@@ -9,17 +9,19 @@ const cities = require('../data/cities.json');
 
 const ApexChart = props => {
   const {
-    data,
+    location,
     typeChart
   } = props;
 
+  console.log(states['FL']);
+
   const state = '' || 'FL'
-  const languages = states[state].languages.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
-  const technologies = states[state].technologies.filter(lang => lang.y > 0).sort((a, b) => b.y - a.y).slice(0, 10);
+  const languages = states[state].languages.filter(lang => lang.value > 0).sort((a, b) => b.value - a.value).slice(0, 10);
+  const technologies = states[state].technologies.filter(lang => lang.value > 0).sort((a, b) => b.value - a.value).slice(0, 10);
 
   const languagesGraph = {
     series: [{
-      data: languages
+      data: toXY(languages)
     }],
     options: {
       chart: {
@@ -58,9 +60,11 @@ const ApexChart = props => {
         enabled: false
       },
       xaxis: {
+        seriesName: 'name',
         type: 'category'
       },
       yaxis: {
+        seriesName: 'value',
         title: {
           text: 'Job postings',
           style: {
@@ -73,7 +77,7 @@ const ApexChart = props => {
 
   const technologyGraph = {
     series: [{
-      data: technologies
+      data: toXY(technologies)
     }],
     options: {
       chart: {
@@ -112,9 +116,11 @@ const ApexChart = props => {
         enabled: false
       },
       xaxis: {
+        seriesName: 'name',
         type: 'category'
       },
       yaxis: {
+        seriesName: 'value',
         title: {
           text: 'Job postings',
           style: {
@@ -156,3 +162,13 @@ const ApexChart = props => {
 }
 
 export default ApexChart;
+
+const toXY = (array) => {
+
+  let result = [];
+  array.forEach(element => {
+    result.push({x: element.name, y: element.value});
+  });
+
+  return result;
+}
