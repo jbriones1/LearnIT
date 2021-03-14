@@ -215,26 +215,38 @@ const ApexChart = ({ location, techFilter }) => {
   return (
     <div>
       <Text color='teal.200' align='center' fontSize='xl'>
-        Statistics for {location}
+        {languages.length > 0 && technologies.length > 0
+          ? `Statistics for ${location.toUpperCase()}`
+          : `Sorry no data for ${location.toUpperCase()}`}
       </Text>
-      <Text color='white' align='center' fontSize='lg' mb='5'>
-        Top 10 Programming Languages
-      </Text>
-      <Chart
-        options={languagesGraph.options}
-        series={languagesGraph.series}
-        type='bar'
-        width={width > 550 ? '550' : '300'}
-      />
-      <Text color='white' align='center' fontSize='lg' mb='5' mt='5'>
-        Top 10 Frameworks & Libraries
-      </Text>
-      <Chart
-        options={technologyGraph.options}
-        series={technologyGraph.series}
-        type='bar'
-        width={width > 550 ? '550' : '300'}
-      />
+
+      {languages.length > 0 && (
+        <>
+          <Text color='white' align='center' fontSize='lg' mb='5'>
+            Top 10 Programming Languages
+          </Text>
+          <Chart
+            options={languagesGraph.options}
+            series={languagesGraph.series}
+            type='bar'
+            width={width > 550 ? '550' : '300'}
+          />
+        </>
+      )}
+
+      {technologies.length > 0 && (
+        <>
+          <Text color='white' align='center' fontSize='lg' mb='5' mt='5'>
+            Top 10 Frameworks & Libraries
+          </Text>
+          <Chart
+            options={technologyGraph.options}
+            series={technologyGraph.series}
+            type='bar'
+            width={width > 550 ? '550' : '300'}
+          />
+        </>
+      )}
     </div>
   );
 };
